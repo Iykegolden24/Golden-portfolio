@@ -1,14 +1,33 @@
 img {
     width: 250px;
+
+
 }
 
 img {
     background-size: 0cm;
 }
 
+.float-right {
+    float: right;
+    margin-right: 25px;
+
+}
+
+li a {
+    display: inline-flexbox;
+    color: papayawhip;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: underline;
+
+
+}
+
 
 body {
     background-color: yellowgreen;
+
 }
 
 .header {
@@ -50,7 +69,7 @@ body {
 
 .project2 {
     margin-bottom: 32px;
-color: black;
+    color: black;
 }
 
 .project3 {
@@ -104,4 +123,5 @@ color: black;
 
 .footer h2 {
     font-size: 20px;
+    color: purple;
 }
