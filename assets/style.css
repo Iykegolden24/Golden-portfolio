@@ -1,18 +1,15 @@
 img {
     width: 250px;
 
-
 }
 
 img {
     background-size: 0cm;
+
+    
 }
 
-.float-right {
-    float: right;
-    margin-right: 25px;
 
-}
 
 li a {
     display: inline-flexbox;
@@ -21,7 +18,11 @@ li a {
     padding: 14px 16px;
     text-decoration: underline;
 
+}
 
+.ABOUT column> {
+    float: left;
+    width: 33.33%
 }
 
 
