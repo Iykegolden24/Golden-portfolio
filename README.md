@@ -4,7 +4,7 @@
 
 
 My project title is me creating a portfolio about myself which has given me the opportunity to showcase my work and what I have to offer to my viewers. My motivation for this project took me back memory lane to how i started playing the drums, which shows different images of me displaying what i call the "MR VIBE" attitude. I was motivated to create my portfolio having tried building a beautiful image of what i look and how I present myself. It was a challenging experience writing out the code because I was making sure I had all my elements right so my viewers can see a well representation of me.
-My portfolio is a part of my identity and was created to give my audience easy access to reaching me.
+My portfolio is a part of my identity and was created to give my employer easy access to reaching me if they ever want to work with me.
 This is my first portfolio and has giving me the right mindset of knowing and also fixing both basic and advance html/css codes. Below is a deployed link to my portfolio.
 
 link: https://iykegolden24.github.io/Golden-portfolio/

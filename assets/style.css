@@ -3,6 +3,11 @@ img {
 
 }
 
+#navbar {
+    display: flex;
+    flex-direction: row;
+}
+
 img {
     background-size: 0cm;
 
@@ -12,6 +17,9 @@ img {
 p.dotted {
     border-top: dotted 0ch;
 }
+
+
+
 
 
 .nav li{
@@ -38,7 +46,7 @@ li a {
 
 
 body {
-    background-color: greenyellow
+    background-color: rgb(201, 183, 183)
 }
 
 .header {
