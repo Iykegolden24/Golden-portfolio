@@ -7,10 +7,6 @@ My portfolio is a part of my identity and was created to give my audience easy a
 This is my first portfolio and has giving me the right mindset of knowing and also fixing both basic and advance html/css codes. Below is a deployed link to my portfolio
 link*
 
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
-
 
 
 ## Installation
