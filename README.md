@@ -23,20 +23,9 @@ After the project was complited, I deployed my project to both the URL/HTTP. For
 
 ## usage
 
-To be able to code, you have to open a terminer through Gitbash after you must have saved your work ans the first thing to do while creating a HTML(hyper Text markup lnguage) is to for example
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
-</html>
+To be able to code, you have to open a terminer through Gitbash after you must have saved your work ans the first thing to do while creating a HTML(hyper Text markup lnguage) See screenshot:
 ![Alt text](assets/images/assets/images/Screenshot%20(62).png)
+
 
 
 
