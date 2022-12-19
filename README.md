@@ -3,9 +3,11 @@
 ## Description 
 
 
-My project title is me creating a portfolio about myself which has given the opportunity to showcase my work and what I have to offer to my viewers. My motivation for this project took me back memory lane to how i started playing the drums, which shows different images of me displaying what i call the "MR VIBE" attitude. I was motivated to create my portfolio having tried building a beautiful image of what i look and how I present myself. It was a challenging experience writing out the code because I was making sure I had all my elements right so my viewers can see a well representation of me.
+My project title is me creating a portfolio about myself which has given me the opportunity to showcase my work and what I have to offer to my viewers. My motivation for this project took me back memory lane to how i started playing the drums, which shows different images of me displaying what i call the "MR VIBE" attitude. I was motivated to create my portfolio having tried building a beautiful image of what i look and how I present myself. It was a challenging experience writing out the code because I was making sure I had all my elements right so my viewers can see a well representation of me.
 My portfolio is a part of my identity and was created to give my audience easy access to reaching me.
-This is my first portfolio and has giving me the right mindset of knowing and also fixing both basic and advance html/css codes. Below is a deployed link to my portfolio
+This is my first portfolio and has giving me the right mindset of knowing and also fixing both basic and advance html/css codes. Below is a deployed link to my portfolio.
+
+
 link*
 
 
@@ -43,7 +45,9 @@ To be able to code, you have to open a terminer through Gitbash after you must h
 3. Troy and I collaborated in our firsr week bootcamp class for a CSS cheatsheet. We both worked in hand to Gitignore. Thanks to all helpul links and to my collaborator.
 
 https://www.w3schools.com/default.asp
+
 https://www.youtube.com/@KevinPowell
+
 https://github.com/troynj/csscheatsheet
 
 
@@ -54,11 +58,12 @@ https://github.com/troynj/csscheatsheet
 2. Simple layout, fonts and colors
 3. Amazing presentation,
 4. Great heads,foots,tags and sections,
-5. User friendly and simple
+5. User friendly and simple.
 
 
 
  IYKE GOLDEN AKA "MR VIBE"
+
 © 2022 MR VIBE Services, Inc.
 
 
