@@ -31,6 +31,18 @@ To be able to code, you have to open a terminer through Gitbash after you must h
 ![Alt text](assets/images/assets/images/Screenshot%20(65).png)
 
 
+## Credits
+1. w3school has been a sourceful help ion helping me code and creating my project
+2. Kevin is another great source i used in styling my sheet. Watching some of his videos was a useful tool for my project
+3. Troy and I collaborated in our firsr week bootcamp class for a CSS cheatsheet. We both worked in hand to Gitignore. Thanks to all helpul links and to my collaborator.
+
+https://www.w3schools.com/default.asp
+https://www.youtube.com/@KevinPowell
+https://github.com/troynj/csscheatsheet
+
+
+## Features
+
 
 
 
