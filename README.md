@@ -7,8 +7,16 @@ My project title is me creating a portfolio about myself which has given me the 
 My portfolio is a part of my identity and was created to give my audience easy access to reaching me.
 This is my first portfolio and has giving me the right mindset of knowing and also fixing both basic and advance html/css codes. Below is a deployed link to my portfolio.
 
+link https://iykegolden24.github.io/Golden-portfolio/
 
-link*
+
+
+| Technology Used         | Resource URL           | 
+| ------------- |:-------------:| 
+| HTML    | https://github.com/Iykegolden24/marketing-refactor/search?l=html | 
+| CSS     |https://github.com/Iykegolden24/marketing-refactor/search?l=css      |   
+| Git | 
+link https://iykegolden24.github.io/Golden-portfolio/
 
 
 
@@ -62,9 +70,9 @@ https://github.com/troynj/csscheatsheet
 
 
 
- IYKE GOLDEN AKA "MR VIBE"
+         IYKE GOLDEN AKA "MR VIBE"
 
-© 2022 MR VIBE Services, Inc.
+       © 2022 MR VIBE Services, Inc.
 
 
 
