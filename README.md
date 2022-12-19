@@ -37,6 +37,7 @@ To be able to code, you have to open a terminer through Gitbash after you must h
 </body>
 </html>
 
+![Alt text](assets/images/assets/images/Screenshot%20(62).png)
 
 
 
