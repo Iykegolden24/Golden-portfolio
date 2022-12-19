@@ -7,7 +7,7 @@ My project title is me creating a portfolio about myself which has given me the 
 My portfolio is a part of my identity and was created to give my audience easy access to reaching me.
 This is my first portfolio and has giving me the right mindset of knowing and also fixing both basic and advance html/css codes. Below is a deployed link to my portfolio.
 
-link https://iykegolden24.github.io/Golden-portfolio/
+link: https://iykegolden24.github.io/Golden-portfolio/
 
 
 
@@ -15,8 +15,7 @@ link https://iykegolden24.github.io/Golden-portfolio/
 | ------------- |:-------------:| 
 | HTML    | https://github.com/Iykegolden24/marketing-refactor/search?l=html | 
 | CSS     |https://github.com/Iykegolden24/marketing-refactor/search?l=css      |   
-| Git | 
-link https://iykegolden24.github.io/Golden-portfolio/
+| Git | https://github.com/Iykegolden24/Golden-portfolio
 
 
 
@@ -24,13 +23,13 @@ link https://iykegolden24.github.io/Golden-portfolio/
 
 
 Steps in installing my project: 
-1. I created repository from my Github account
+1. I created a repository from my Github account
 2. I cloned it,
 3. Saved the SSH key,
 4. Opened a terminal via Gitbash to make sure i have my work save on both my local machine and in Github,
-5. I had my html/css opened and began to code,
+5. I had my html/css via VS code, and began to code,
 7. I made different chages and was commiting all to my main.
-After the project was complited, I deployed my project to both the URL/HTTP. For deploying my project, I went to my settings, down to page and then made sure i was in the main branch and save my project.
+After the project was completed, I deployed my project to get my links from the URL/HTTPS. For deploying my project: I went to my settings, down to page and then made sure i was in the main branch and saved my project.
 
 
 ## usage
@@ -70,9 +69,9 @@ https://github.com/troynj/csscheatsheet
 
 
 
-         IYKE GOLDEN AKA "MR VIBE"
+               IYKE GOLDEN AKA "MR VIBE"
 
-       © 2022 MR VIBE Services, Inc.
+             © 2022 MR VIBE Services, Inc.
 
 
 
