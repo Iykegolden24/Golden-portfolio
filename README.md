@@ -23,7 +23,9 @@ After the project was complited, I deployed my project to both the URL/HTTP. For
 
 ## usage
 
-To be able to code, you have to open a terminer through Gitbash after you must have saved your work, so we start by creating a HTML(hyper Text markup lnguage) by <doctype html> and also for CSS(Cascading style sheet) which gives beauty t![Alt text](assets/images/assets/images/Screenshot%20(62).png)o the project. See all screenshots:
+To be able to code, you have to open a terminer through Gitbash after you must have saved your work, so we start by creating a HTML(hyper Text markup lnguage) by <doctype html> and also for CSS(Cascading style sheet) which gives beauty to your project. See screenshots:
+
+![Alt text](assets/images/assets/images/Screenshot%20(62).png)
 ![Alt text](assets/images/assets/images/Screenshot%20(63).png)
 ![Alt text](assets/images/assets/images/Screenshot%20(64).png)
 ![Alt text](assets/images/assets/images/Screenshot%20(65).png)
