@@ -1,128 +1,15 @@
-img {
-    width: 250px;
-
+* {
+    padding: 0;
+    margin: 0;
 }
-
-img {
-    background-size: 0cm;
-
-    
-}
-
-
-
-li a {
-    display: inline-flexbox;
-    color: papayawhip;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: underline;
-
-}
-
-.ABOUT column> {
-    float: left;
-    width: 33.33%
-}
-
 
 body {
-    background-color: yellowgreen;
-
+    background-color: aliceblue
 }
 
-.header {
-    padding-right: 30px;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: lightsteelblue;
-    color: aliceblue;
+ img {
+    width: 200px;
 }
-
-.header h2 {
-    display: inline-block;
-    font-size: 48px;
-}
-
-.header h2 .project1 {
-    color: mintcream;
-}
-
-.header h2 {
-    display: inline-flexbox;
-}
-
-
-.project {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
+nav {
     float: right;
-    width: 20px;
-    height: 100;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: darkseagreen;
-}
-
-.project1 {
-    margin-bottom: 32px;
-    color: black;
-}
-
-.project2 {
-    margin-bottom: 32px;
-    color: black;
-}
-
-.project3 {
-    margin-bottom: 32px;
-    color: black;
-}
-
-.project5 {
-    margin-bottom: 10px;
-    color: black;
-}
-
-.project6 {
-    margin-bottom: 10px;
-    color: black;
-}
-
-.ABOUT ME img {
-    max-height: 200px;
-}
-
-.MY WORK img {
-    max-height: 250px;
-}
-
-.CONTACT img {
-    max-height: 250px;
-}
-
-.ABOUT ME h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.MY WORK h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.CONTACT h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-    color: purple;
 }
