@@ -6,8 +6,12 @@ img {
 img {
     background-size: 0cm;
 
-    
-}p.dotted {border-top: dotted 0ch;}
+
+}
+
+p.dotted {
+    border-top: dotted 0ch;
+}
 
 
 
@@ -27,8 +31,7 @@ li a {
 
 
 body {
-    background-color:yellow
-
+    background-color: paleturquoise
 }
 
 .header {
@@ -47,9 +50,10 @@ body {
     color: mintcream;
 }
 
-.header h2 {
-    display: inline-flexbox;
-}
+.header h2 {}
+
+display inline-flexbox;
+
 
 
 .project {
@@ -125,4 +129,3 @@ body {
 .footer h2 {
     font-size: 20px;
     color: purple;
-}
